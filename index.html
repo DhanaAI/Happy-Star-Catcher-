@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Happy Star Catcher</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <div id="app">
+    <div class="header">
+      <div class="title" id="gameTitle">Happy Star Catcher</div>
+      <div>
+        <button id="playBtn" class="btn primary">Play</button>
+        <a id="openseaBtn" class="btn secondary" target="_blank" rel="noopener">OpenSea</a>
+      </div>
+    </div>
+
+    <canvas id="game" width="900" height="500" aria-label="Game canvas"></canvas>
+
+    <div class="panel" id="itemsPanel" aria-live="polite"></div>
+
+    <div class="footer">
+      Tip: Click or tap the stars to catch them! Items are cosmetic and can be listed as NFTs on OpenSea.
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

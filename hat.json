@@ -1,0 +1,19 @@
+{
+  "name": "Magic Hat",
+  "description": "A friendly magic hat for your Happy Star Catcher hero.",
+  "image": "ipfs://REPLACE_WITH_IPFS_CID/hat.svg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Magic"
+    },
+    {
+      "trait_type": "Game",
+      "value": "Happy Star Catcher"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Super Glasses",
+  "description": "See the sparkles better with these bright frames.",
+  "image": "ipfs://REPLACE_WITH_IPFS_CID/glasses.svg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Glasses"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Super"
+    },
+    {
+      "trait_type": "Game",
+      "value": "Happy Star Catcher"
+    }
+  ]
+}

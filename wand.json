@@ -1,0 +1,19 @@
+{
+  "name": "Sparkle Wand",
+  "description": "A wand that loves to sprinkle sparkly stars.",
+  "image": "ipfs://REPLACE_WITH_IPFS_CID/wand.svg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Wand"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Sparkle"
+    },
+    {
+      "trait_type": "Game",
+      "value": "Happy Star Catcher"
+    }
+  ]
+}
