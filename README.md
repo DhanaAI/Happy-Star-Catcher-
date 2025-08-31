@@ -1,4 +1,8 @@
-
+window.GAME_CONFIG = {
+  title: "Happy Star Catcher",
+  openseaCollectionUrl: "https://opensea.io/collection/your-collection-slug",
+  items: [ /* ... */ ]
+};
 # Happy Star Catcher — Kids Game + NFT Scaffold
 
 This package contains a super-simple HTML5 game suitable for young children **and** a ready-to-use NFT scaffold for your game accessories.
